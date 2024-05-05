@@ -32,7 +32,7 @@ $(function () {
       $api = $('#api_status');
       $api.addClass('available');
     },
-    error: function() {
+    error: function () {
       $api = $('#api_status');
       $api.removeClass('available');
     }
