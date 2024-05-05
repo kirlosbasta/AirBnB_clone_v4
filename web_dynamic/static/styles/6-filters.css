@@ -78,6 +78,12 @@ button:hover {
     margin: 0px;
 }
 
+.amenities .popover ul input {
+    display: inline;
+    padding: 4px;
+    margin-left: 10px;
+}
+
 .locations .popover {
     margin-top: 0%;
 }
@@ -87,6 +93,7 @@ button:hover {
     padding-left: 10px;
 }
 .popover ul li{
+    display: inline;
     padding: 4px;
     padding-left: 10px;
 }
